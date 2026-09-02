@@ -32,3 +32,13 @@ Router-on-a-Stick /traffic between multiple VLANs.
 <div>
  <img width="683" height="630" alt="image" src="https://github.com/user-attachments/assets/a44a2561-5142-4794-b8f6-10f496e34504" />
 </div>
+
+### Vlan 30 can now ping Vlan 10 and vice versa
+
+<div>
+ <img width="672" height="457" alt="image" src="https://github.com/user-attachments/assets/969de47d-cfbe-4521-9781-25f1855dcbd5" />
+</div>
+
+<div>
+  <img width="554" height="394" alt="image" src="https://github.com/user-attachments/assets/1c2f5d79-e52c-4df6-b14c-6aecd5bbd9fa" />
+</div>
