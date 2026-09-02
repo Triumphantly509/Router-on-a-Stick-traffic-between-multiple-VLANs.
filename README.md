@@ -26,3 +26,9 @@ Router-on-a-Stick /traffic between multiple VLANs.
 <div>
   <img width="942" height="599" alt="image" src="https://github.com/user-attachments/assets/70a28560-6843-4c51-af7d-5dbe7fc48649" />
 </div>
+
+### Creating Subinterfaces on the router
+
+<div>
+ <img width="683" height="630" alt="image" src="https://github.com/user-attachments/assets/a44a2561-5142-4794-b8f6-10f496e34504" />
+</div>
