@@ -17,6 +17,12 @@ Router-on-a-Stick /traffic between multiple VLANs.
   <img width="923" height="572" alt="image" src="https://github.com/user-attachments/assets/909c00da-349a-4d0f-92ec-b61ec59eacfb" />
 </div>
 
+### Topology update
+
+<div>
+  <img width="1060" height="666" alt="image" src="https://github.com/user-attachments/assets/269711d8-0e52-476b-baaf-297adf68c205" />
+</div>
+
 ### Configuring G0/1 as trunk and allowing VLAns
 
 <div>
